@@ -1,6 +1,4 @@
-# Save the world with Morse code
+Girl Devlop It neoHack15 Hackathon Project
 
 
-## Publish to Github Pages
 
-    $ ./publish.sh
